@@ -10839,6 +10839,10 @@ body {
   padding: 8rem 0;
 }
 
+.page-section-contact {
+  padding-top: 1.5rem;
+}
+
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75) !important;
 }
